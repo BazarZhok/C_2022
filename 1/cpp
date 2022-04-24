@@ -1,0 +1,13 @@
+int main()
+{
+    char c='7';
+    int a=4;
+    float b=10.444;
+    int v=MAXVAL;
+    
+    printf("Значение c: %d \n", c);
+    printf("Значение a: %d \n", a);
+    printf("Значение b: %f \n", b);
+    printf("Значение v: %d \n", MAXVAL);
+    return 0;
+}
